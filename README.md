@@ -1,6 +1,9 @@
-#Processamento Digital de Sinais - Estudo Dirigido (Parte 1)#
+<div >
+  <h1 align="center" style="font-size:14px bold">Processamento Digital de Sinais</h1> 
+  <h2 align="center">Estudo Dirigido (Parte 1)</h2>
+</div>
 
-##Identificação:##
+## Identificação:
 
 **Instituição:** Instituto Federal da Paraíba (IFPB)
 
@@ -10,11 +13,11 @@
 
 **Período Acadêmico:** 2026.1
 
-###Tema: Modelagem de Sinais e Sistemas Discretos###
+### Tema: Modelagem de Sinais e Sistemas Discretos
 
-###Descrição Geral e Objetivos###
+### Descrição Geral e Objetivos
 
-Este documento estabelece as diretrizes para a primeira etapa do estudo dirigido, focada na fundamentação matemática necessária para a representação e análise de sinais em tempo discreto e a caracterização de sistemas digitais. O projeto visa consolidar competências técnicas essenciais para o processamento de informações, especificamente:
+> Este documento estabelece as diretrizes para a primeira etapa do estudo dirigido, focada na fundamentação matemática necessária para a representação e análise de sinais em tempo discreto e a caracterização de sistemas digitais. O projeto visa consolidar competências técnicas essenciais para o processamento de informações, especificamente:
 
 - Compreensão da relação analítica entre sinais contínuos e sinais discretos.
 - Capacidade de interpretar fenômenos físicos complexos através de modelos matemáticos.
