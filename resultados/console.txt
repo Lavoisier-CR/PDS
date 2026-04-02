@@ -1,0 +1,39 @@
+=======================================================
+     PARÂMETROS DO SISTEMA EMBARCADO (ADC)
+=======================================================
+  Frequência de amostragem : 1000 Hz
+  Período de amostragem    : 1.00 ms
+  Resolução do ADC         : 12 bits
+  Níveis de quantização    : 4096
+  Tensão de referência     : 3.3 V
+  Valor do LSB             : 0.8057 mV
+  Número de amostras       : 1000
+=======================================================
+
+=======================================================
+       ENERGIA E POTÊNCIA DOS SINAIS
+=======================================================
+  [Original Amostrado]
+    Energia total  E  = 687.5017 J
+    Potência média P  = 0.687502 W
+
+  [Com Ruído Térmico]
+    Energia total  E  = 689.4041 J
+    Potência média P  = 0.689404 W
+
+  [Quantizado (ADC)]
+    Energia total  E  = 689.5287 J
+    Potência média P  = 0.689529 W
+
+  [Erro de Quantiz.]
+    Energia total  E  = 0.0687 J
+    Potência média P  = 0.000069 W
+
+  [Exp. Real (a^n)]
+    Energia total  E  = 9.9834 J
+    Potência média P  = 0.049917 W
+
+  [SQNR]
+    SQNR medido   = 70.03 dB
+    SQNR teórico  = 74.00 dB  (6.02*12 + 1.76)
+=======================================================
