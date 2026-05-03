@@ -110,7 +110,7 @@ Responda, com suas próprias palavras:
 ###### Atividade 2 – Cálculo manual de convolução
 Considere:
 
-$$ x[n] = \{ 1 , 2 , 1 \}  h[n] = \{ 1 , 1 \} $$
+$x[n] =$ {1, 2, 1}   $h[n] =$ {1, 1}
 
 1) Calcule manualmente a convolução $y[n] = x[n]∗h[n]$.
 2) Apresente o resultado em forma de sequência.
@@ -159,16 +159,12 @@ title(’Resultado da convolucao discreta ’);
 
 1) Execute o código e compare o resultado com o cálculo manual.
 2) Explique a forma do sinal de saída obtido.
-3) Modifique a entrada para $x[n] =\{ 1 , 1 , 1 , 1 \}$ e interprete o novo resultado.
+3) Modifique a entrada para $x[n] =${ 1 , 1 , 1 , 1 } e interprete o novo resultado.
 
 ##### Atividade 5 – Suavização de sinais
-Considere um sinal de sensor representado por:
+Considere um sinal de sensor representado por: $x[n] =${2 , 5 , 4 , 6 , 8 , 7 , 5 , 4}
 
-$$x[n] =\{ 2 , 5 , 4 , 6 , 8 , 7 , 5 , 4 \}$$
-
-e um filtro de média simples:
-
-$$h[n] = \frac{1}{3} \{ 1 , 1 , 1 \}$$
+e um filtro de média simples:  $h[n] = \frac{1}{3}$ {1 , 1 , 1}
 
 1) Realize a convolução entre $x[n]$ e $h[n]$.
 2) Apresente o gráfico do sinal original e do sinal filtrado.
